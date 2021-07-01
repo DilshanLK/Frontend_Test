@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+
+.header_menu {
+  font-size: 16px;
+  padding-right: 25px;
+}
+
+.header_menu_mobile {
+  font-size: 24px;
+  padding-right: 25px;
+  color: #f59019;
+}
+
+.header_logo {
+  width: 164px;
+}
+
+.social_media_icons {
+  height: 15px;
+  padding-left: 25px;
+}
+
+.search_icon {
+  padding-left: 50px;
+  height: 15px;
+}
+
+.nav_menu {
+  font-size: 18px;
+}
+
+.nav_menu_box {
+  height: 88px;
+  margin-top: 30px;
+}
+
+.nav_menu_button {
+  padding-left: 45px;
+}
+
+.apply_button {
+  width: 175px;
+  height: 50px;
+  font-size: 16px;
+}
+
+.portfolio_text {
+  font-size: 20px;
+  padding-top: 100px;
+}
+
+.about_us_text {
+  font-size: 60px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.divider_line {
+  height: 2px;
+  width: 265px;
+  background-color: white;
+  margin-top: 15px;
+}
+
+.tab_menu {
+  margin-top: 100px;
+}
+
+.tab_menu_button {
+  font-size: 18px;
+}
